@@ -58,7 +58,7 @@ cmake --build build
 ## Запуск тестов
 
 ```bash
-cmake --build build --target all_tests
+
 ./build/tests/all_tests
 ```
 

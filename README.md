@@ -28,6 +28,13 @@ cd production-workshop-simulator
 git submodule update --init --recursive
 ```
 
+Склонировать репозиторий вместе с submodule:
+
+```bash
+git clone --recurse-submodules https://github.com/ElizavetaFrolova/Terracraft_Valrising_bot
+cd Terracraft_Valrising_bot
+```
+
 Соберите проект из корня:
 
 ```bash
